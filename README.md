@@ -1,4 +1,7 @@
-Solvingmagento_DownloadableSize
-===============================
+Magento Downloadable Product Type Tutorial
+==========================================
 
-Solvingmagento_DownloadableSize
+This sample extension demonstrates some functionality aspects of the Downloadable product type in Magento. 
+It complements the [Magento Downloadable product type tutorial].
+
+[Magento Downloadable product type tutorial]: http://www.solvingmagento.com/magento-downloadable-product-type-tutorial
